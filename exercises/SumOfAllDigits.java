@@ -1,4 +1,4 @@
-package com.xavier.JavaTraining.sumofalldigits;
+package com.xavier.JavaTraining.exercises;
 
 import java.util.Scanner;
 
