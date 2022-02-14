@@ -19,8 +19,9 @@ public class DaysOfTheWeek {
             case 5 -> weekDayString = "Friday";
             case 6 -> weekDayString = "Saturday";
             case 7 -> weekDayString = "Sunday";
-            default -> weekDayString = "Invalid weekday";
+            default -> weekDayString = "Invalid day number.";
         }
+
         System.out.println(weekDayString);
     }
 }
